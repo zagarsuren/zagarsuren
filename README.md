@@ -4,7 +4,7 @@
 📚 Passionate about exploring and writing on Data Analytics, Machine Learning, AI/GenAI, and Computer Vision. <br> 
 🌱 A lifelong learner, constantly keeping up with the latest trends in Data and AI.<br> 
 💬 Feel free to ask me about Data Science, Analytics, ML algorithms, NLP, GenAI, and Computer Vision.<br> 
-🤝 Open to collaboration and knowledge-sharing on innovative projects.
+🤝 Open to collaboration and knowledge-sharing on innovative projects.<br> 
 [Visit My Webpage](https://zagarsuren.github.io)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zagarsuren/)
