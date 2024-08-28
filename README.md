@@ -1,9 +1,10 @@
 ## About Me:
 👨‍🎓 I am currently pursuing a Master of Artificial Intelligence with a specialization in Computer Vision at the University of Technology Sydney (UTS), Australia. <br> 
-📚 Passionate about exploring and writing on Data Analytics, Machine Learning, AI, and Computer Vision. <br> 
+💻 Excel and Python expert. <br> 
+📚 Passionate about exploring and writing on Data Analytics, Machine Learning, AI/GenAI, and Computer Vision. <br> 
 🌱 A lifelong learner, constantly keeping up with the latest trends in Data and AI.<br> 
-💬 Feel free to ask me about Data Science, Analytics, ML algorithms, NLP, and Computer Vision.<br> 
-🤝 Open to collaboration and knowledge-sharing on innovative projects. <br> 
+💬 Feel free to ask me about Data Science, Analytics, ML algorithms, NLP, GenAI, and Computer Vision.<br> 
+🤝 Open to collaboration and knowledge-sharing on innovative projects.
 [Visit My Webpage](https://zagarsuren.github.io)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zagarsuren/)
