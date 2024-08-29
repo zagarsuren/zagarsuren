@@ -15,13 +15,13 @@
 
 ## Technical Badges:
 
-|**Generative AI**|[**IBM Data Science Professional**](https://coursera.org/share/c393d843dd02307ddced5d1a1759e3df)|[**Machine Learning**](https://www.credly.com/badges/cd6f727c-d1ac-4095-b0fe-d3d29053ffd3/public_url)|[**Data Science and AI**](https://www.credly.com/badges/0afd62d5-b75c-4186-886d-959ddbc82971/public_url)|[**SQL**](https://www.credly.com/badges/01b0f88b-ca10-47d8-ad43-3dd42e247d19/public_url)|
-|:---:|:---:|:---:|:---:|:---:|
-|<img src="assets/badges/GenAI.png" alt="drawing" width="400"/>|<img src="assets/badges/IBM-DS.png" alt="drawing" width="400"/>|<img src="assets/badges/ml-python.png" alt="drawing" width="400"/>|<img src="assets/badges/python-data-science.png" alt="drawing" width="400"/>|<img src="assets/badges/database-sql.png" alt="drawing" width="400"/>|
-
-|[**Introduction to GenAI**](https://www.cloudskillsboost.google/public_profiles/75e58a54-0443-47a8-8233-35ab251ef0f4/badges/8644089)|[**Introduction to LLMs**](https://www.cloudskillsboost.google/public_profiles/75e58a54-0443-47a8-8233-35ab251ef0f4/badges/8644407)|[**Introduction to Responsible AI**](https://www.cloudskillsboost.google/public_profiles/75e58a54-0443-47a8-8233-35ab251ef0f4/badges/8651387)|[**Attention Mechanism**](https://www.cloudskillsboost.google/public_profiles/75e58a54-0443-47a8-8233-35ab251ef0f4/badges/9372687)|
+[**IBM Data Science Professional**](https://coursera.org/share/c393d843dd02307ddced5d1a1759e3df)|[**Machine Learning**](https://www.credly.com/badges/cd6f727c-d1ac-4095-b0fe-d3d29053ffd3/public_url)|[**Data Science and AI**](https://www.credly.com/badges/0afd62d5-b75c-4186-886d-959ddbc82971/public_url)|[**SQL**](https://www.credly.com/badges/01b0f88b-ca10-47d8-ad43-3dd42e247d19/public_url)|
 |:---:|:---:|:---:|:---:|
-|<img src="assets/badges/intro-genai.png" alt="drawing" width="200"/>|<img src="assets/badges/intro-llm.png" alt="drawing" width="200"/>|<img src="assets/badges/responsibleAI.png" alt="drawing" width="200"/>|<img src="assets/badges/attention.png" alt="drawing" width="200"/>|
+|<img src="assets/badges/IBM-DS.png" alt="drawing" width="400"/>|<img src="assets/badges/ml-python.png" alt="drawing" width="400"/>|<img src="assets/badges/python-data-science.png" alt="drawing" width="400"/>|<img src="assets/badges/database-sql.png" alt="drawing" width="400"/>|
+
+|**Generative AI**|[**Introduction to LLMs**](https://www.cloudskillsboost.google/public_profiles/75e58a54-0443-47a8-8233-35ab251ef0f4/badges/8644407)|[**Introduction to Responsible AI**](https://www.cloudskillsboost.google/public_profiles/75e58a54-0443-47a8-8233-35ab251ef0f4/badges/8651387)|[**Attention Mechanism**](https://www.cloudskillsboost.google/public_profiles/75e58a54-0443-47a8-8233-35ab251ef0f4/badges/9372687)|
+|:---:|:---:|:---:|:---:|
+|<img src="assets/badges/GenAI.png" alt="drawing" width="220"/>|<img src="assets/badges/intro-llm.png" alt="drawing" width="220"/>|<img src="assets/badges/responsibleAI.png" alt="drawing" width="220"/>|<img src="assets/badges/attention.png" alt="drawing" width="220"/>|
 <!--
 **zagarsuren/zagarsuren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
