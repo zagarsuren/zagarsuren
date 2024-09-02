@@ -19,9 +19,9 @@
 |:---:|:---:|:---:|:---:|
 |<img src="assets/badges/IBM-DS.png" alt="drawing" width="400"/>|<img src="assets/badges/ml-python.png" alt="drawing" width="400"/>|<img src="assets/badges/python-data-science.png" alt="drawing" width="400"/>|<img src="assets/badges/database-sql.png" alt="drawing" width="400"/>|
 
-|**Generative AI**|[**Introduction to LLMs**](https://www.cloudskillsboost.google/public_profiles/75e58a54-0443-47a8-8233-35ab251ef0f4/badges/8644407)|[**Introduction to Responsible AI**](https://www.cloudskillsboost.google/public_profiles/75e58a54-0443-47a8-8233-35ab251ef0f4/badges/8651387)|[**Attention Mechanism**](https://www.cloudskillsboost.google/public_profiles/75e58a54-0443-47a8-8233-35ab251ef0f4/badges/9372687)|
+|[**Generative AI Fundamentals**](https://credentials.databricks.com/b5fe450e-9c6e-4587-9bbf-3d54760c6f7e?record_view=true#gs.dys2vg)|**GenAI & Prompt Engineering**|[**Introduction to LLMs**](https://www.cloudskillsboost.google/public_profiles/75e58a54-0443-47a8-8233-35ab251ef0f4/badges/8644407)|[**Introduction to Responsible AI**](https://www.cloudskillsboost.google/public_profiles/75e58a54-0443-47a8-8233-35ab251ef0f4/badges/8651387)|
 |:---:|:---:|:---:|:---:|
-|<img src="assets/badges/GenAI.png" alt="drawing" width="220"/>|<img src="assets/badges/intro-llm.png" alt="drawing" width="220"/>|<img src="assets/badges/responsibleAI.png" alt="drawing" width="220"/>|<img src="assets/badges/attention.png" alt="drawing" width="220"/>|
+|<img src="assets/badges/databricks-genai.png" alt="drawing" width="100"/>|<img src="assets/badges/GenAI.png" alt="drawing" width="220"/>|<img src="assets/badges/intro-llm.png" alt="drawing" width="220"/>|<img src="assets/badges/responsibleAI.png" alt="drawing" width="220"/>|
 <!--
 **zagarsuren/zagarsuren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
