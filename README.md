@@ -4,7 +4,6 @@
 🌱 A lifelong learner, constantly keeping up with the latest trends in Data and AI.<br> 
 💬 Feel free to ask me about Data Science, Analytics and AI/GenAI.<br> 
 🤝 Open to collaboration and knowledge-sharing on innovative projects.<br> 
-[Visit My Webpage](https://zagarsuren.github.io)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zagarsuren/)
 
